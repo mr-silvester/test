@@ -1,5 +1,1 @@
-modified text file
-
-branch
-
-modified once again
+reset
